@@ -1,0 +1,8 @@
+h1 {
+    color: black;
+    background-color: azure;
+}
+h1:hover {
+    color: green;
+    background-color: aqua;
+}
